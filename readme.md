@@ -22,9 +22,15 @@ Pastda screnshootlar bilan ozingiz korishingiz mumkin
 
 <p align="center"><a href="https://t.me/OlmosTaxiBot" target="_blank"><img src="./images/3.jpg"/></a></p>
 
+##
+
 <p align="center"><a href="https://t.me/OlmosTaxiBot" target="_blank"><img src="./images/1.jpg"/></a></p>
 
+##
+
 <p align="center"><a href="https://t.me/OlmosTaxiBot" target="_blank"><img src="./images/2.jpg"/></a></p>
+
+##
 
 Botni ozingiz Ishlatib korishingiz mumkin :)
 <a href="https://t.me/OlmosTaxiBot" target="_blank">OLMOS TAXI</a>
